@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite:"
+title: "A microscopic-view Infection model based on linear systems"
+version: "v1.0"
+doi: "10.1016/j.ins.2019.09.021"
+url: "https://github.com/HAOHE123/Your-Repo-For-Infection-Model"
+authors:
+  - family-names: "Hao"
+    given-names: "He"
+  - family-names: "Silvestre"
+    given-names: "Daniel"
+  - family-names: "Silvestre"
+    given-names: "Carlos"
+date-released: "2020-01-01"
+license: "MIT"
+keywords:
+  - "Infection networks"
+  - "Source localization"
+  - "Topology identification"
+  - "Linear models"
+  - "Controllability"
+  - "Observability"
+abstract: |
+  Understanding the behavior of an infection network is typically addressed from either a microscopic or a macroscopic point-of-view. The trade-off is between following the individual states at some added complexity cost or looking at the ratio of infected nodes. In this paper, we focus on developing an alternative approach based on dynamical linear systems that combines the fine information of the microscopic view without the associated added complexity. Attention is shifted towards the problems of source localization and network topology discovery in the context of infection networks where a subset of the nodes is elected as observers. Finally, the possibility to control such networks is also investigated. Simulations illustrate the conclusions of the paper with particular interest on the relationship of the aforementioned problems with the topology of the network and the selected observer/controller nodes.
